@@ -165,7 +165,7 @@ margin: auto;
   margin: auto;
     color: #3a3a3a;
     font-family: 'Alata' , sans-serif;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     display: flex;
     flex-direction: inherit;
     justify-content: space-evenly;
@@ -177,7 +177,7 @@ margin: auto;
    margin: auto;
     color: #3a3a3a;
     font-family: 'Alata' , sans-serif;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     display: flex;
     flex-direction: inherit;
     justify-content: space-evenly;
@@ -189,7 +189,7 @@ margin: auto;
     margin: auto;
     color: #3a3a3a;
     font-family: 'Alata' , sans-serif;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     display: flex;
     flex-direction: inherit;
     justify-content: space-evenly;
@@ -199,7 +199,7 @@ margin: auto;
     margin: auto;
     color: #3a3a3a;
     font-family: 'Alata' , sans-serif;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     display: flex;
     flex-direction: inherit;
     justify-content: space-evenly;
@@ -210,7 +210,7 @@ margin: auto;
     margin: auto;
     color: #3a3a3a;
     font-family: 'Alata' , sans-serif;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     display: flex;
     flex-direction: inherit;
     justify-content: space-evenly;
@@ -221,7 +221,7 @@ margin: auto;
     margin: auto;
     color: #3a3a3a;
     font-family: 'Alata' , sans-serif;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
     display: flex;
     flex-direction: inherit;
     justify-content: space-evenly;
@@ -241,38 +241,38 @@ p{
     margin-bottom: 1.75em;
 }
 .p-for-para{
-   padding: 0.5rem;
+   /* padding: 0.5rem; */
    margin: auto;
    color: #4D4B58;
-   margin-top: 0.1rem;
+   /* margin-top: 0.1rem; */
 } 
  
 #anchor-1{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #33cccc;
 }   
 #anchor-2{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #33cccc;
 }    
 #anchor-3{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #33cccc;
 }  
 #anchor-4{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #33cccc;
 } 
 #anchor-5{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #33cccc;
 } 
 #anchor-6{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #33cccc;
 } 
 #anchor-7{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #33cccc;
 } 
 .s-for-span{
